@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm archive.zip
-7z a archive.zip *
+rm json-archive.zip
+7z a json-archive.zip *
